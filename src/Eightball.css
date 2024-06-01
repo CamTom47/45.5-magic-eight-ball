@@ -1,0 +1,13 @@
+.Eightball {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border-radius: 50%;
+
+}
+
+.Eightball-p {
+    color: white;
+    margin-top: 85px;
+}
